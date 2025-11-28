@@ -1,2 +1,2 @@
 # ScrumbleWord
-html,css project
+html,css,js project
